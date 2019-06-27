@@ -1,0 +1,60 @@
+
+Arvore AVL:
+Altura=16
+Rotacoes=14056
+
+Arvore AVL:
+Altura=3
+Rotacoes=8
+
+Arvore AVL:
+Altura=3
+Rotacoes=8
+
+Arvore AVL:
+Altura=3
+Rotacoes=8
+
+Arvore AVL:
+Altura=3
+Rotacoes=8
+
+Arvore AVL:
+Altura=3
+Rotacoes=8
+
+Arvore AVL:
+Altura=3
+Rotacoes=8
+
+Arvore AVL:
+Altura=3
+Rotacoes=8
+
+Arvore AVL:
+Altura=16
+Rotacoes=14056
+
+Arvore AVL:
+Altura=14
+Rotacoes=3571
+
+Arvore AVL:
+Altura=14
+Rotacoes=3575
+
+Arvore AVL:
+Altura=1
+Rotacoes=0
+
+Arvore AVL:
+Altura=1
+Rotacoes=0
+
+Arvore AVL:
+Altura=1
+Rotacoes=0
+
+Arvore AVL:
+Altura=1
+Rotacoes=0

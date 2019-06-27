@@ -1,0 +1,82 @@
+Shell_sort de 1000 Trocas -> [5457]
+Shell_sort de 1000 comparação -> [11049]
+
+ Shell_sort de 10000 Trocas -> [75243]
+Shell_sort de 10000 comparação -> [191428]
+
+ Shell_sort de 100000 Trocas -> [967146]
+Shell_sort de 100000 comparação -> [3221331]
+
+ selection_sort de 1000 trocas -> [991]
+ selection_sort de 1000 comparação -> [499500]
+
+ selection_sort de 10000 trocas -> [9992]
+ selection_sort de 10000 comparação -> [49995000]
+
+ selection_sort de 100000 trocas -> [99985]
+ selection_sort de 100000 comparação -> [4999950000]
+
+ bubble_sort de 1000 trocas -> [249306]
+ bubble_sort de 1000 comparação -> [499500]
+
+ bubble_sort de 10000 trocas -> [25054899]
+ bubble_sort de 10000 comparação -> [49995000]
+
+ bubble_sort de 100000 trocas -> [2502634680]
+ bubble_sort de 100000 comparação -> [4999950000]
+
+ insert_sort de 1000 Trocas -> [249306]
+insert_sort de 1000 comparação -> [249314]
+
+ insert_sort de 10000 Trocas -> [25054899]
+insert_sort de 10000 comparação -> [25054907]
+
+ insert_sort de 100000 Trocas -> [2502634680]
+insert_sort de 100000 comparação -> [2502634689]
+
+ Shell_sort de 1000 Trocas -> [5457]
+Shell_sort de 1000 comparação -> [10918]
+
+ Shell_sort de 10000 Trocas -> [75243]
+Shell_sort de 10000 comparação -> [197196]
+
+ Shell_sort de 100000 Trocas -> [967146]
+Shell_sort de 100000 comparação -> [3226095]
+
+ selection_sort de 1000 trocas -> [991]
+ selection_sort de 1000 comparação -> [499500]
+
+ selection_sort de 10000 trocas -> [9991]
+ selection_sort de 10000 comparação -> [49995000]
+
+ selection_sort de 1000 trocas -> [991]
+ selection_sort de 1000 comparação -> [499500]
+
+ selection_sort de 10000 trocas -> [9990]
+ selection_sort de 10000 comparação -> [49995000]
+
+ selection_sort de 100000 trocas -> [99987]
+ selection_sort de 100000 comparação -> [4999950000]
+
+ bubble_sort de 1000 trocas -> [251772]
+ bubble_sort de 1000 comparação -> [499500]
+
+ bubble_sort de 10000 trocas -> [24923214]
+ bubble_sort de 10000 comparação -> [49995000]
+
+ selection_sort de 1000 trocas -> [992]
+ selection_sort de 1000 comparação -> [499500]
+
+ selection_sort de 10000 trocas -> [9990]
+ selection_sort de 10000 comparação -> [49995000]
+
+ selection_sort de 100000 trocas -> [99988]
+ selection_sort de 100000 comparação -> [4999950000]
+
+ bubble_sort de 1000 trocas -> [249223]
+ bubble_sort de 1000 comparação -> [499500]
+
+ bubble_sort de 10000 trocas -> [25016003]
+ bubble_sort de 10000 comparação -> [49995000]
+
+ 

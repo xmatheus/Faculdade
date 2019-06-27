@@ -1,0 +1,57 @@
+
+Arvore RED-BLACK{
+	Altura=3
+	Rotacoes=7
+}
+Arvore RED-BLACK{
+	Altura=17
+	Rotacoes=2975
+}
+Arvore RED-BLACK{
+	Altura=2
+	Rotacoes=0
+}
+Arvore RED-BLACK{
+	Altura=2
+	Rotacoes=2
+}
+Arvore RED-BLACK{
+	Altura=3
+	Rotacoes=2
+}
+Arvore RED-BLACK{
+	Altura=3
+	Rotacoes=3
+}
+Arvore RED-BLACK{
+	Altura=6
+	Rotacoes=15
+}
+Arvore RED-BLACK{
+	Altura=5
+	Rotacoes=14
+}
+Arvore RED-BLACK [9/7/2018 21:25]{
+	Altura=17
+	Rotacoes=2975
+}
+Arvore RED-BLACK [9/7/2018 21:25]{
+	Altura=17
+	Rotacoes=2975
+}
+Arvore RED-BLACK [9/7/2018 21:25]{
+	Altura=17
+	Rotacoes=2975
+}
+Arvore RED-BLACK [9/7/2018 21:26]{
+	Altura=17
+	Rotacoes=2975
+}
+Arvore RED-BLACK [9/7/2018 21:26]{
+	Altura=17
+	Rotacoes=2975
+}
+Arvore RED-BLACK [9/7/2018 21:26]{
+	Altura=17
+	Rotacoes=2975
+}

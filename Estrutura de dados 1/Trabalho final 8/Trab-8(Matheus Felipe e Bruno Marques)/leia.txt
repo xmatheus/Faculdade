@@ -1,0 +1,1 @@
+Professor os 2 dos algoritmos estão errados porque não seguem atentamente o enunciado e 1 está faltando um teste, mas estão funcionais, estou apenas enviando por conta do pouco tempo, irei refazer todos agora.

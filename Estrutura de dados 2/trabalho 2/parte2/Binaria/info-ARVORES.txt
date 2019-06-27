@@ -1,0 +1,5 @@
+
+Arvore Binaria [9/7/2018 21:22]{
+	Altura=34
+	Rotacoes=0
+}

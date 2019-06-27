@@ -1,0 +1,14 @@
+&vertices
+a
+b
+c
+d
+f
+&arestas
+a,b
+a,c
+a,d
+b,c
+b,d
+c,d
+b,f

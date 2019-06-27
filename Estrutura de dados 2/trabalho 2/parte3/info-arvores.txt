@@ -1,0 +1,77 @@
+
+-= 3 ARQUIVOS DE 5000:
+
+Arvore Binaria [9/7/2018 21:44]{
+	Altura=29
+	Rotacoes=0
+}
+Arvore AVL [9/7/2018 21:44]{
+	Altura=14
+	Rotacoes=3498
+}
+Arvore RED-BLACK [9/7/2018 21:44]{
+	Altura=14
+	Rotacoes=2939
+}
+Arvore Binaria [9/7/2018 21:44]{
+	Altura=26
+	Rotacoes=0
+}
+Arvore AVL [9/7/2018 21:44]{
+	Altura=14
+	Rotacoes=3400
+}
+Arvore RED-BLACK [9/7/2018 21:44]{
+	Altura=14
+	Rotacoes=2864
+}
+Arvore Binaria [9/7/2018 21:44]{
+	Altura=25
+	Rotacoes=0
+}
+Arvore AVL [9/7/2018 21:44]{
+	Altura=14
+	Rotacoes=3446
+}
+Arvore RED-BLACK [9/7/2018 21:44]{
+	Altura=15
+	Rotacoes=2819
+}
+-= 3 ARQUIVOS DE 20000:
+
+Arvore Binaria [9/7/2018 21:44]{
+	Altura=35
+	Rotacoes=0
+}
+Arvore AVL [9/7/2018 21:44]{
+	Altura=16
+	Rotacoes=14206
+}
+Arvore RED-BLACK [9/7/2018 21:44]{
+	Altura=17
+	Rotacoes=11770
+}
+Arvore Binaria [9/7/2018 21:44]{
+	Altura=35
+	Rotacoes=0
+}
+Arvore AVL [9/7/2018 21:44]{
+	Altura=16
+	Rotacoes=13854
+}
+Arvore RED-BLACK [9/7/2018 21:44]{
+	Altura=16
+	Rotacoes=11580
+}
+Arvore Binaria [9/7/2018 21:44]{
+	Altura=31
+	Rotacoes=0
+}
+Arvore AVL [9/7/2018 21:44]{
+	Altura=16
+	Rotacoes=13878
+}
+Arvore RED-BLACK [9/7/2018 21:44]{
+	Altura=16
+	Rotacoes=11808
+}

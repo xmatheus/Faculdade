@@ -1,0 +1,19 @@
+1- Todo nó é vermelho ou preto
+2- Se um nó é folha, entao ele é preto
+3- A raiz é preta
+4- Qualquer caminho da raiz até uma folha têm n° igual de nós pretos
+5- O pai de um nó vermelho é preto
+6- Se um nó é vermelho, então seus filhos são pretos
+7- Todo novo nó é posto como vermelho
+
+
+
+vermelho, pai vermelho e tio vermelho = troca cor pai tio e avô
+
+vermelho, pai vermelho e tio preto dir = rotaciona simples a direita e troca cor do pai e do avô
+
+vermelho, pai vermelho e tio preto esq = rotaciona simples a esqeurda e troca cor do pai e do avô 
+
+inseriu a esq e tio a esq preto = rotaciona dupla esq, nó muda de cor e o avô
+
+inseriu a dir e tio a dir preto = rotaciona dupla dir, nó muda de cor e o avô

@@ -1,0 +1,5 @@
+
+Arvore AVL [9/7/2018 21:20]{
+	Altura=16
+	Rotacoes=14056
+}

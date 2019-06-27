@@ -1,0 +1,11 @@
+testeo : 5 com testeD : 25
+testeV : 10 com testeE : 23
+testeP : 10 com testeC : 21
+testeQ : 11 com testeJ : 21
+testeN : 11 com testeK : 20
+testeS : 12 com testeA : 20
+testeR : 12 com testeB : 19
+testeT : 13 com testeI : 19
+testeU : 14 com testeG : 18
+testeL : 15 com testeH : 17
+testeM : 16 com testeF : 17

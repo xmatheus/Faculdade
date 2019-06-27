@@ -1,0 +1,3 @@
+parte 1 - algoritmo de geração
+parte 2 - arvores binaria e balanceadas
+parte 3 - Resultado do trabalho e algoritmo que executa o teste nas 3 arvores e armazena o resultado.

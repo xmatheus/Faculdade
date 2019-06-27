@@ -1,0 +1,21 @@
+--- Pseudo código do BUBBLE SORT ---
+Funcao bubbleSort(vetor[], inteiro: tamanho) {
+	inteiro: flagTroca	//Flag utilizada para saber se ocorreram trocas
+	inteiro: i; auxValor
+
+	flagTroca <- 1	//Inicializa com 1 apenas para que o laço geral possa ser iniciado
+
+	//Enquanto ocorrerem trocas, o laço será executado
+	enquanto (flagTroca = 1) faça
+		flagTroca <- 0		//Define flag com zero para sinalizar que ainda nenhuma troca foi feita nesta iteraçao
+
+		para (i <- 0 enquanto i < (tamanho - 1) passo 1) faça
+				se (vetor[i] > vetor[i+1]) então
+						auxValor <- vetor[i]
+						vetor[i] <- vetor[i+1]
+						vetor[i+1] <- auxValor
+						flagTroca <- 1;	//Define flag com verdadeiro (houve troca)
+				fim se
+		fim para
+  fim enquanto
+fim

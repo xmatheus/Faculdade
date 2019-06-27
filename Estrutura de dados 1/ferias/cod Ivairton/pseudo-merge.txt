@@ -1,0 +1,53 @@
+--- Pseudo código do MERGE SORT ---
+//Usa estratégia recursiva
+Funcao merge_sort (vetor[], inteiro: tamanho)
+inicio
+    inteiro: meio
+    se (tamanho > 1) então
+        meio <- tamanho/2
+        merge_sort( vetor["1a posicao"], meio)
+        merge_sort( vetor[meio], "novo tamanho")
+        merge(vetor[], tamanho)
+    fim se
+fim
+
+
+//Função de merge
+Funcao merge(vetor[], inteiro tamanho) {
+inicio
+  	aloca um vetor auxiliar vetAux de tamanho "tamanho"
+  	inteiro: i, j, meio, posVetAux	//i aponta para o início do vetor, e j e meio para a metade
+
+  	meio <- j <- tam/2
+  	i <- 0
+  	posAux <- 0
+
+  	//Enquanto i e j não atingiram os seus respectivos 'fins'
+  	enquanto ( (i < meio) E (j < tamanho) ) faça
+  		  se (vetor[i] < vetor[j]) então
+  			   vetAux[posAux] <- vetor[i]
+           i <- i+1
+  		  senão
+  			   vetAux[posAux] <- vetor[j]
+           j <- j+1
+        fim se
+        posAux <- posAux +1
+  	fim enquanto
+
+  	// se uma das listas foi finalizada, copia a restante
+  	enquanto ( i < meio ) faça
+  		  vetAux[posAux] <- vetor[i]
+        posAux <- posAux + 1
+        i <- i +1
+  	fim enquanto
+  	enquanto ( j < tamanho ) faça
+  		  vetAux[posAux] <- vetor[j]
+        posAux <- posAux + 1
+        j <- j +1
+  	fim enquanto
+
+    //Copia o vetor auxiliar para o vetor original
+  	para i <- 0 enquanto i < tam passo 1 faça
+  		vetor[i] <- vetAux[i]
+    fim para
+fim

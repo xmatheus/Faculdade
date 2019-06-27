@@ -1,0 +1,8 @@
+1-arquivos;
+2-tabela hash;
+3-matrizes esparsas;// dia 03/04
+4-árvore AVL;
+5-Árvore rubro negro;
+6-Árvore B;
+7-Grafos;
+8-Algoritmos em grafos;n
